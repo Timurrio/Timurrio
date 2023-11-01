@@ -17,7 +17,7 @@
 <h2 align="center">Github Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timurrio&theme=dark)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timurrio&theme=dark&background=000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timurrio&theme=dark&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **Timurrio/Timurrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
